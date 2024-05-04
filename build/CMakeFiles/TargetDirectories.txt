@@ -1,0 +1,2 @@
+/home/lab603/Desktop/Thread/build/CMakeFiles/edit_cache.dir
+/home/lab603/Desktop/Thread/build/CMakeFiles/rebuild_cache.dir
